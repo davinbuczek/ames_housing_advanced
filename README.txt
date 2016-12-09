@@ -21,4 +21,12 @@ seaborn 0.7.1
 visuals.py
 visuals.pyc
 
+Link to GitHub repo containing all project, supporting and output files
+
+https://github.com/davinbuczek/ames_housing_advanced
+
+Link to the Kaggle competition dataset used throughout this project
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
 
